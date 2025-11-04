@@ -103,15 +103,16 @@ All SQL queries for database initialization, table creation, and sample data ins
 
 BookVault/
 ├── src/
-│ └── main/
-│ ├── java/com/demo/ # Java source code (entities, controller, service, repository)
-│ └── resources/
-│ ├── application.properties # Database and Spring config
-│ └── templates/ # JSP views (optional)
+│   └── main/
+│       ├── java/com/demo/           # Java source code (entities, controller, service, repository)
+│       └── resources/
+│           ├── application.properties  # Database and Spring config
+│           └── templates/              # JSP views (optional)
 ├── sql/
-│ └── database-queries.sql # SQL scripts for DB setup and data
-├── pom.xml # Maven configuration
-└── README.md # Project documentation
+│   └── database-queries.sql         # SQL scripts for DB setup and data
+├── pom.xml                         # Maven configuration
+└── README.md                       # Project documentation
+
 
 
 ---
