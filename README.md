@@ -100,6 +100,7 @@ All SQL queries for database initialization, table creation, and sample data ins
 ---
 
 ## Project Structure
+```
 
 BookVault/
 ├── src/
@@ -114,7 +115,7 @@ BookVault/
 └── README.md                       # Project documentation
 
 
-
+```
 ---
 
 ## Contributing
